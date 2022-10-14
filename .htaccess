@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+<<<<<<< HEAD
+RewriteRule . /index.html [L]
+=======
+RewriteRule . /index.html [L]
+>>>>>>> 94203472a5a9b2fffea6726a185fe61055c1d760
