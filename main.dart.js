@@ -56501,7 +56501,7 @@ $3(a,b,c){var s=null,r=this.a,q=t.E,p=A.iL(B.k1,A.a([A.NZ(B.A2,B.bZ,new A.ze(new
 return A.Co(A.iL(B.aH,A.a([new A.uL(!0,p,A.ac2(B.J,new A.qg(o?B.zS:B.zR,B.bs,s),0,B.J,n,0,B.J,0,!1,r.gDH(),B.J),s)],q),B.aA,s,s),B.GU,B.bw,s,s,r.gTZ())},
 $S:359}
 A.a3a.prototype={
-$2(a,b){var s,r=null,q="Sinnoor C",p="I'm a self-taught Flutter developer and UI/UX enthusiast who is passionate about making open-source more accessible,\ncreating technology to elevate people. Some technologies I enjoy working with include\nFlutter, Dart, Firebase, and Serverpod.",o=t.E,n=A.a9g(A.a([new A.Be(new A.mU("Hey there!",r,A.bb(a).RG.a,r),r),B.G6,new A.lB(B.zl,A.acg("https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif",r,40,r),r)],o),B.dq),m=A.bb(a),l=A.bb(a).RG.a
+$2(a,b){var s,r=null,q="Sinnoor C",p="I'm a self-taught Flutter developer and UI/UX enthusiast who is passionate about making open-source more accessible,\ncreating technology to elevate people. Some technologies I enjoy working with include\nFlutter, Dart, Firebase, and Serverpod.",o=t.E,n=A.a9g(A.a([new A.Be(new A.mU("Hey there!",r,A.bb(a).RG.a,r),r),B.G6,new A.lB(B.zl,A.acg("https://medsia.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif",r,40,r),r)],o),B.dq),m=A.bb(a),l=A.bb(a).RG.a
 l=l==null?r:l.VL(B.un,A.bb(a).fy,1.5)
 s=A.adC(r)
 s.bf=this.a.gDH()
